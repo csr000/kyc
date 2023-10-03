@@ -75,7 +75,7 @@ export default function Home() {
             >
               Upload documents
             </button>
-            <button className="w-[90%] h-[35px] md:w-[100px] text-sm md:text-md px-4 bg-button-secondary rounded-lg text-white m-1">
+            <button className="w-[90%] h-[35px] md:w-[100px] text-sm md:text-md px-4 bg-button-secondary rounded-lg text-white m-1 md:mr-3">
               Skip
             </button>
           </div>
